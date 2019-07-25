@@ -1,2 +1,2 @@
 # CS211
-GMU-CS211-Java
+CS211-Java
